@@ -1,6 +1,7 @@
 # Hi, I'm Akash Mehta 👋  
 **iOS Developer** | **Tech Enthusiast** | **Based in India 🇮🇳**  
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1F75FE&center=true&vCenter=true&width=840&lines=iOS+Mobile+App+Developer+%7C+Swift+%7C+SwiftUI+%7C+MVVM+Architecture;10%2B+Years+of+Experience)
+
 ---
 
 ## 👨‍💻 About Me
