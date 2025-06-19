@@ -22,22 +22,19 @@ Whether it's building elegant UIs, integrating with complex APIs, or solving rea
 - 🌱 Sharpening skills in **DSA**, **Swift Concurrency**, and **interview prep**
 - 🧠 Exploring **AI in Mobile Apps** & automation with **SwiftUI**
 - 🤝 Open to collaborating on impactful iOS projects or startups
-
----
-
-## 🛠️ Tools & Technologies
-
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-1E90FF?style=for-the-badge&logo=swift&logoColor=white)
-![Objective-C](https://img.shields.io/badge/Objective--C-438EFF?style=for-the-badge&logo=apple&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 ---
 
 ## 📊 GitHub Stats
 
 ![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkashMehta)
+
+---
+
+## 📫 Let's Connect
+
+- 🌐 [Portfolio](#) *(add your portfolio link here if available)*
+- 📧 [akash.yourmail@example.com](mailto:sky2785@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/akash-mehta-976b3935/)
+- 📱 iOS Projects? Let’s talk!
+
+---
