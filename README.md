@@ -19,9 +19,18 @@ Whether it's building elegant UIs, integrating with complex APIs, or solving rea
 ## 🚀 What I'm Up To
 
 - 🔭 Currently building apps using **Swift 6**, **Combine**, and **MVVM Clean Architecture**
-- 🌱 Sharpening skills in **DSA**, **Swift Concurrency**, and **interview prep**
 - 🧠 Exploring **AI in Mobile Apps** & automation with **SwiftUI**
 - 🤝 Open to collaborating on impactful iOS projects or startups
+
+---
+
+### 🔧 Core Focus Areas
+
+- 📱 Full-cycle mobile app development using **Swift**, **Objective-C**, and **Flutter**
+- 🚗 Deep specialization in **Automotive**, **IoT**, **BLE**, and **HealthTech** domains
+- 🚀 Seamless **App Store** & **Play Store** launches with ongoing support and upgrades
+- 🔗 Robust backend integrations using **Firebase**, **REST APIs**, and **Payment Gateways**
+
 ---
 
 ## 📊 GitHub Stats
