@@ -26,9 +26,9 @@ Whether it's building elegant UIs, integrating with complex APIs, or solving rea
 
 ### 🔧 Core Focus Areas
 
-- 📱 Full-cycle mobile app development using **Swift**, **Objective-C**, and **Flutter**
+- 📱 Full-cycle mobile app development using **Swift**, **Objective-C**
 - 🚗 Deep specialization in **Automotive**, **IoT**, **BLE**, and **HealthTech** domains
-- 🚀 Seamless **App Store** & **Play Store** launches with ongoing support and upgrades
+- 🚀 Seamless **App Store** launches with ongoing support and upgrades
 - 🔗 Robust backend integrations using **Firebase**, **REST APIs**, and **Payment Gateways**
 
 ---
