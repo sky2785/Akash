@@ -32,8 +32,8 @@ Whether it's building elegant UIs, integrating with complex APIs, or solving rea
 
 ## 📫 Let's Connect
 
-- 🌐 [Portfolio](#) *(add your portfolio link here if available)*
-- 📧 [akash.yourmail@example.com](mailto:sky2785@gmail.com)
+- 🧑‍💻 [Upwork](https://www.upwork.com/freelancers/~01d06ab25285147ca8?mp_source=share)
+- 📧 [sky2785@gmail.com](mailto:sky2785@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/akash-mehta-976b3935/)
 - 📱 iOS Projects? Let’s talk!
 
