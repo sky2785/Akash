@@ -35,7 +35,7 @@ Whether it's building elegant UIs, integrating with complex APIs, or solving rea
 
 ## 📊 GitHub Stats
 
-![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkashMehta)
+![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sky2785)
 
 ---
 
